@@ -313,7 +313,7 @@ def save_cache(cache, cachefile):
 
 def inputfunction():
     '''a function that takes user input to cycle through states and national landmarks in those states
-    taken from the national parks service website,as well as nearby locations taken from mapquest
+    taken from the national parks service website,as well as nearby locations taken from mapquest API
     '''
 
     quitvariable = 0
